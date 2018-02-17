@@ -1,0 +1,2 @@
+[12-Dec-2015 17:50:05 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/aferiwala/public_html/oop-php/database.php on line 29
+[12-Dec-2015 17:50:05 UTC] PHP Warning:  extract() expects parameter 1 to be array, boolean given in /home/aferiwala/public_html/oop-php/admin_login/edit_teacher.php on line 22
